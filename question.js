@@ -9,7 +9,7 @@ function myFunction() {
 
     }
     else if (resposta == "marie jeanne valet") {
-        window.location = "file:///C:/Users/beatr/OneDrive/%C3%81rea%20de%20Trabalho/The%20Riddle%20of%20Rowena/second.html";
+        window.location = "/second.html";
 
 
     }
