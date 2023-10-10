@@ -1,0 +1,2 @@
+
+h1{color:#d3d3d3;font-family:'Amarante',cursive;font-size:50px;margin-left:33%;margin-bottom:30px;display:flex}img{margin-left:36%;display:flex}.gradient{height:100vh;width:100vw;background:linear-gradient(45deg,#132d46,#041628,#466067,#a0a0a0);background-size:200% 200%;animation:colors 20s ease infinite}@keyframes colors{0%{background-position:0 50%}50%{background-position:100% 50%}100%{background-position:0 50%}}p{color:silver;font-family:'Amarante',cursive;font-size:18px;margin-left:32%;margin-bottom:11px}
