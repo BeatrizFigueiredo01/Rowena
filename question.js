@@ -35,7 +35,7 @@ function oneFunction() {
 
     }
     else if (bat == "thou art more lovely and more temperate") {
-        window.location = "file:///C:/Users/beatr/OneDrive/%C3%81rea%20de%20Trabalho/The%20Riddle%20of%20Rowena/three.html";
+        window.location = "/second.html";
 
 
     }
