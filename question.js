@@ -9,7 +9,7 @@ function myFunction() {
 
     }
     else if (resposta == "marie jeanne valet") {
-        window.location = "/second.html";
+        window.location = "./second.html";
 
 
     }
@@ -35,7 +35,7 @@ function oneFunction() {
 
     }
     else if (bat == "thou art more lovely and more temperate") {
-        window.location = "/three.html";
+        window.location = "./three.html";
 
 
     }
@@ -59,7 +59,7 @@ function fastFunction() {
 
 
     } else if (enid == "6.62607004") {
-        window.location = "/four.html";
+        window.location = "./four.html";
 
     } else if (enid == "constante de planck") {
         window.alert("Você está quase lá");
@@ -81,7 +81,7 @@ function rodFunction() {
         window.alert("Esse campo não pode ficar em branco!")
 
     } else if (rod == "expecto patronum") {
-        window.location = "/five.html"
+        window.location = "./five.html"
 
     } else if (rod == "harry potter") {
         window.alert("bom chute, mas ainda não")
@@ -97,7 +97,7 @@ function peaceFunction() {
     if (pea == null || pea == "") {
         window.alert("Esse campo não pode ficar em branco!")
     } else if (pea == "h5f7") {
-        window.location = "/six.html";
+        window.location = "./six.html";
 
     } else { window.alert("Resposta errada!"); }
 }
@@ -106,7 +106,7 @@ function sinkFunction() {
     if (sink == null || sink == "") {
         window.alert("Esse campo não pode ficar em branco!")
     } else if (sink == "macho pichu") {
-        window.location = "/end.html";
+        window.location = "./end.html";
 
     } else { window.alert("Resposta errada!"); }
 
